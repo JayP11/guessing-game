@@ -66,4 +66,4 @@ guessing_game/
 
 ## License
 
-MIT License 
+MIT License
