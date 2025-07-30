@@ -1,3 +1,5 @@
+https://jayp11.github.io/guessing-game
+
 # Number Guessing Game
 
 A number guessing game with both Rust and React versions. Guess a random number between 1 and 100!
